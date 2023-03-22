@@ -83,7 +83,7 @@ export default function Profile() {
                   }}
                   className="text-red-600 hover:text-red-700 transition ease-in-out duration-200 ml-1 cursor-pointer"
                 >
-                  {changeDetail ? 'Aplly change' : 'Edit'}
+                  {changeDetail ? 'Apply change' : 'Edit'}
                 </span>
               </p>
               <p
